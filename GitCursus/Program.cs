@@ -8,7 +8,8 @@ namespace GitCursus
         {
             //Console.WriteLine("Hello World!");
             //Console.WriteLine("Hallo!");
-            Console.WriteLine("Bonjour !");
+            //Console.WriteLine("Bonjour !");
+            Console.WriteLine("Hallo iedereen");
         }
     }
 }
